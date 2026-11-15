@@ -2,4 +2,4 @@
 
 Live preview: https://rklglobal.github.io/mayormont-preview/
 
-A single-file, tabbed redesign concept for mayormont.com. Open `index.html` in any browser.
+Built with React + Vite using animated components from React Bits (reactbits.dev). This repo holds the built site only. See THIRD_PARTY_NOTICES.md.
